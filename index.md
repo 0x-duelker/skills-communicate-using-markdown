@@ -3,3 +3,5 @@
 ##### and heading5!
 
 testing headings.. :D
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
